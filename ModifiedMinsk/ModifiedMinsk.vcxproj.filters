@@ -19,4 +19,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="mc\Program.cs" />
+    <None Include="mc\obj\mc.csproj.nuget.dgspec.json" />
+    <None Include="mc\obj\mc.csproj.nuget.g.props" />
+    <None Include="mc\obj\mc.csproj.nuget.g.targets" />
+    <None Include="mc\obj\project.assets.json" />
+    <None Include="mc\obj\project.nuget.cache" />
+  </ItemGroup>
 </Project>

@@ -129,6 +129,14 @@
   <ItemGroup>
     <ClCompile Include="ModifiedMinsk.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="mc\obj\mc.csproj.nuget.dgspec.json" />
+    <None Include="mc\obj\mc.csproj.nuget.g.props" />
+    <None Include="mc\obj\mc.csproj.nuget.g.targets" />
+    <None Include="mc\obj\project.assets.json" />
+    <None Include="mc\obj\project.nuget.cache" />
+    <None Include="mc\Program.cs" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
